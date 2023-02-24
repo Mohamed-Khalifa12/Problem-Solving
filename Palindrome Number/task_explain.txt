@@ -1,0 +1,23 @@
+This problem require to know if an integar is  
+palindrome or Not ?
+
+Example 1: 
+    Input: x = 121
+    Output: true
+    Explanation: 121 reads as 121 from left to right and from right to left.
+Example 2:
+    Input: x = -121
+    Output: false
+    Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+Example 3:
+    Input: x = 10
+    Output: false
+    Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+*****************SOLUTION ALGORITHM**********
+input ==> int x
+output ==> bool result
+steps ==> 
+    1. convert the int to string
+    2. reverse that string
+    3. compare the original & the reversed string

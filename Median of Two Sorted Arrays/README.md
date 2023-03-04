@@ -1,5 +1,5 @@
 # Intuition
-At first, I thought I could merge the 2 sorted arrays into one larger array and get the middle of the new array, which is the median.
+At first, I thought I could merge the 2 sorted arrays into one larger array and get the middle of the new array, which is the median.<br />
 BUT: this algorithm needs more time O(n+m) at least and more memory.
 
 # Approach
@@ -21,13 +21,14 @@ So the solution steps:
     6. Doing d and e steps until it fits the condition of a and b then do c ;)
 
 # Critical Questions
-1. Why do we start with the smaller array, not the larger one?
+1. Why do we start with the smaller array, not the larger one?<br />
     To minimize the probability of a missing element while getting the middle of 1st array.
 	Not looping more times in the larger array will increase execution time, which causes better performance.
-2. What if the element of m or n get out of the range of the array or the elements just before them  = -1?
+2. What if the element of m or n get out of the range of the array or the elements just before them  = -1?<br />
 So we make the element in index -1 = -inf (smallest number in the int range) and make the element in the L (the length of the array) =  inf (the largest number in the int range).
 
 # Complexity
 - Time complexity: O(lgn)
 
-You can have a look to the problem & solution from [here - LeetCode account](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/3256807/easy-recursion-solution-with-ex)
+# LeetCode Account
+You can have a look to the problem & solution from [here - LeetCode account](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/3256807/easy-recursion-solution-with-explanation/)

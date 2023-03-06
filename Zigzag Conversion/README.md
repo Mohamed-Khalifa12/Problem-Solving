@@ -35,7 +35,7 @@ The Algorithm I use is:
 4. Keep executing steps 2 & 3 until I reached the end of the string.
 5. Read the chars from the array of strings in order from index 0 to length and the string we get is the required
 
-## Sudo Code
+## Pseudo Code
 ```
 CONVERT-TO-ZIGZAG( S , n )
 	Let A[n], count

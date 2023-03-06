@@ -42,15 +42,15 @@ CONVERT-TO-ZIGZAG( S , n )
 	While count ≠ length
 		For i = 0 upto n
 			If count < n 
-                A[i] = S[count++]
-            Else
-                Break
+				A[i] = S[count++]
+			Else
+				Break
 		
 		For i = n - 2 downto 1
 			If count < n 
-               A[i] = S[count++]
-            Else
-              Break
+				A[i] = S[count++]
+			Else
+				Break
 	
 	For i = 0 upto n
 		For j = 0 upto size(A[i])

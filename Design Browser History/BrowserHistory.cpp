@@ -44,13 +44,8 @@ void BrowserHistory::push(string str)
         return;
     }
 
-    Node *temp = root;
-    while (temp->next)
-    {
-       temp = temp->next;
-    }
-    temp->next = new_node;
-    new_node->prev = temp;
+    pointer->next = new_node;
+    new_node->prev = pointer;
     pointer = new_node;
 }
 

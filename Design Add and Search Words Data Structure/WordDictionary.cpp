@@ -1,22 +1,25 @@
 #include "WordDictionary.h"
 
-WordDictionary::WordDictionary() {}
+WordDictionary::WordDictionary() {
+    for(int i = 0; i < 26 ; i++)
+        arrLL[i] = nullptr;
+}
 
 void WordDictionary::addWord(string word)
 {
     int index = hashing(word);
-    pushNode(&arrLL[index], word);
+    pushNode(index, word);
 }
 
 bool WordDictionary::search(string word)
 {
     int index = hashing(word);
     if(index != -1)
-        return searchLL(&arrLL[index], word);
+        return searchLL(index, word);
     
     for(int i = 0; i < 26; i++)
     {
-        if(searchLL(&arrLL[i], word))
+        if(searchLL(i, word))
             return true;
     }
     return false;
@@ -31,16 +34,16 @@ int WordDictionary::hashing(string word)
     return word[0] - 'a';
 }
 
-void WordDictionary::pushNode(Node **node, string word)
+void WordDictionary::pushNode(int index, string word)
 {
    Node *new_node = new Node(word);
-   new_node->next = *(node);
-   *node = new_node;
+   new_node->next = arrLL[index];
+   arrLL[index] = new_node;
 }
 
-bool WordDictionary::searchLL(Node **node, string word)
+bool WordDictionary::searchLL(int index, string word)
 {
-    Node *temp = *node;
+    Node *temp = arrLL[index];
 
     while(temp)
     {

@@ -10,7 +10,6 @@ int main()
     w->addWord("aya");
     w->addWord("zyad");
 
-    bool result = w->search("ahme");
-    result ? cout << "true" :  cout << "False";
-
+    bool result = w->search("ahme.");
+    result ? cout << "true" : cout << "False";
 }

@@ -34,7 +34,20 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 18  | Number of Zero-Filled Subarrays |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Zero-Filled%20Subarrays)|
 | 19  | Minimum Score of a Path Between Two Cities |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |[Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities)|
 | 20  | Number of Operations to Make Network Connected |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Operations%20to%20Make%20Network%20Connected)|
+| 21  | Reorder Routes to Make All Paths Lead to the City Zero |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero)|
+| 22  | Count Unreachable Pairs of Nodes in an Undirected Graph |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph)|
+| 23  | Longest Cycle in a Graph |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20Cycle%20in%20a%20Graph)|
+| 23  | Minimum Path Sum |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Path%20Sum)|
+| 24  | Minimum Cost For Tickets |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Cost%20For%20Tickets)|
+| 25  | Reducing Dishes |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Reducing%20Dishes)|
+| 26  | Number of Ways of Cutting a Pizza |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)|[Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20of%20Cutting%20a%20Pizza)|
+| 27  | Binary Search |![#008000](https://placehold.co/10x10/008000/008000.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Binary%20Search)|
+| 28  | Successful Pairs of Spells and Potions |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Successful%20Pairs%20of%20Spells%20and%20Potions)|
+| 29  | Boats to Save People |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Boats%20to%20Save%20People)|
+| 30  | Optimal Partition of String |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Optimal%20Partition%20of%20String)|
 | 41  | Maximum Value of K Coins From Piles |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Value%20of%20K%20Coins%20From%20Piles)|
+| 42  | Number of Ways to Form a Target String Given a Dictionary |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)|
+
 
 
 ## Contributions

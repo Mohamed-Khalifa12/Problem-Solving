@@ -45,8 +45,19 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 28  | Successful Pairs of Spells and Potions |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Successful%20Pairs%20of%20Spells%20and%20Potions)|
 | 29  | Boats to Save People |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Boats%20to%20Save%20People)|
 | 30  | Optimal Partition of String |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Optimal%20Partition%20of%20String)|
+| 31  | Minimize Maximum of Array | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimize%20Maximum%20of%20Array) |
+| 32  | Number of Closed Islands | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Closed%20Islands) |
+| 33  | Number of Enclaves | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Enclaves) |
+| 34  | Clone Graph | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Clone%20Graph) |
+| 35  | Largest Color Value in a Directed Graph | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Largest%20Color%20Value%20in%20a%20Directed%20Graph) |
+| 36  | Valid Parentheses | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Valid%20Parentheses) |
+| 37  | Removing Stars From a String | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Removing%20Stars%20From%20a%20String) |
+| 38  | Simplify Path | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Simplify%20Path) |
+| 39  | Validate Stack Sequences | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Validate%20Stack%20Sequences) |
+| 40  | Longest Palindromic Subsequence | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20Palindromic%20Subsequence) |
 | 41  | Maximum Value of K Coins From Piles |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Value%20of%20K%20Coins%20From%20Piles)|
 | 42  | Number of Ways to Form a Target String Given a Dictionary |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)|
+| 43  | Kids With the Greatest Number of Candies | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies) |
 
 
 

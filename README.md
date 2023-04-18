@@ -58,6 +58,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 41  | Maximum Value of K Coins From Piles |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Value%20of%20K%20Coins%20From%20Piles)|
 | 42  | Number of Ways to Form a Target String Given a Dictionary |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)|
 | 43  | Kids With the Greatest Number of Candies | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies) |
+| 44  | Merge Strings Alternately | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Merge%20Strings%20Alternately) |
 
 
 

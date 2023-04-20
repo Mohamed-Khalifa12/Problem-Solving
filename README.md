@@ -60,6 +60,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 43  | Kids With the Greatest Number of Candies | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies) |
 | 44  | Merge Strings Alternately | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Merge%20Strings%20Alternately) |
 | 45  | Longest ZigZag Path in a Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree) |
+| 46  | Maximum Width of Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Width%20of%20Binary%20Tree) |
+
 
 
 

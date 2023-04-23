@@ -62,6 +62,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 45  | Longest ZigZag Path in a Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree) |
 | 46  | Maximum Width of Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Width%20of%20Binary%20Tree) |
 | 47  | Minimum Insertion Steps to Make a String Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) |
+| 48  | Restore The Array | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Restore%20The%20Array) |
 
 
 

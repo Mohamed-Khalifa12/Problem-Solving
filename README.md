@@ -64,7 +64,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 47  | Minimum Insertion Steps to Make a String Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) |
 | 48  | Restore The Array | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Restore%20The%20Array) |
 | 49  | Last Stone Weight | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Last%20Stone%20Weight) |
-
+| 50  | Smallest Number in Infinite Set | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Smallest%20Number%20in%20Infinite%20Set) |
 
 
 ## Contributions

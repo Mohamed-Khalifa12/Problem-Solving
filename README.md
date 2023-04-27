@@ -66,6 +66,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 49  | Last Stone Weight | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Last%20Stone%20Weight) |
 | 50  | Smallest Number in Infinite Set | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Smallest%20Number%20in%20Infinite%20Set) |
 | 51  | Add Digits | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Add%20Digits) |
+| 52  | Bulb Switcher | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Bulb%20Switcher) |
+
 
 
 ## Contributions

@@ -71,7 +71,6 @@ Each day's challenge is organized into its own folder within this repository. Wi
 
 
 
-
 ## Contributions
 If you find an error in one of my solutions or have a suggestion for how I could improve my code, please feel free to open a pull request or issue. I welcome all constructive feedback and would love to collaborate with others who are also working on daily coding challenges.
 

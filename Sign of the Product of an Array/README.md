@@ -1,6 +1,6 @@
 # Question
 
-## 839. Similar String Groups
+## 1822. Sign of the Product of an Array
 
 There is a function `signFunc(x)` that returns:
 

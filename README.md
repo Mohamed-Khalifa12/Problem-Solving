@@ -70,6 +70,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 53  | Similar String Groups | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Similar%20String%20Groups) |
 | 54  | Average Salary Excluding the Minimum and Maximum Salary | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) |
 | 55  | Sign of the Product of an Array | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sign%20of%20the%20Product%20of%20an%20Array) |
+| 56  | Find the Difference of Two Arrays | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Difference%20of%20Two%20Arrays) |
 
 
 

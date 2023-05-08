@@ -75,7 +75,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 58  | Maximum Number of Vowels in a Substring of Given Length | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length) |
 | 59  | Number of Subsequences That Satisfy the Given Sum Condition | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition) |
 | 60  | Find the Longest Valid Obstacle Course at Each Position | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position) |
-
+| 61  | Matrix Diagonal Sum | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Matrix%20Diagonal%20Sum) |
 
 ## Contributions
 If you find an error in one of my solutions or have a suggestion for how I could improve my code, please feel free to open a pull request or issue. I welcome all constructive feedback and would love to collaborate with others who are also working on daily coding challenges.

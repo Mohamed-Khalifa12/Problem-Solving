@@ -32,7 +32,6 @@ Explanation: The maximum points can be earned by solving questions 1 and 4.
 - Solve question 4: Earn 5 points
 Total points earned: 2 + 5 = 7. There is no other way to earn 7 or more points.
 ```
-
 **Constraints:**
 - `1 <= questions.length <= 10^5`
 - `questions[i].length == 2`

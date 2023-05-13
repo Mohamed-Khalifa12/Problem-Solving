@@ -14,6 +14,7 @@ int main() {
 
 long long mostPoints(vector<vector<int>>& questions) {
     vector<long long> memo (questions.size(), -1);
+    
     return solve(questions, memo, 0);
 }
 

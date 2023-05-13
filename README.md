@@ -80,6 +80,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 63  | Spiral Matrix II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Spiral%20Matrix%20II) |
 | 64  | Uncrossed Lines | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Uncrossed%20Lines) |
 | 65  | Solving Questions With Brainpower | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Solving%20Questions%20With%20Brainpower) |
+| 66  | Count Ways To Build Good Strings | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Count%20Ways%20To%20Build%20Good%20Strings) |
+
 
 
 ## Contributions

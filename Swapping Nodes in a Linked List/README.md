@@ -1,6 +1,6 @@
 # Question
 
-## 20. Valid Parentheses
+## 1721. Swapping Nodes in a Linked List
 
 You are given the `head` of a linked list, and an integer `k`.
 

@@ -83,9 +83,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 66  | Count Ways To Build Good Strings | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Count%20Ways%20To%20Build%20Good%20Strings) |
 | 67  | Swapping Nodes in a Linked List | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Swapping%20Nodes%20in%20a%20Linked%20List) |
 | 68  | Swap Nodes in Pairs | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Swap%20Nodes%20in%20Pairs) |
-
-
-
+| 69  | Maximum Twin Sum of a Linked List | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Twin%20Sum%20of%20a%20Linked%20List) |
+| 70  | Minimum Number of Vertices to Reach All Nodes | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes) |
 
 ## Contributions
 If you find an error in one of my solutions or have a suggestion for how I could improve my code, please feel free to open a pull request or issue. I welcome all constructive feedback and would love to collaborate with others who are also working on daily coding challenges.

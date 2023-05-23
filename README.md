@@ -86,6 +86,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 69  | Maximum Twin Sum of a Linked List | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Twin%20Sum%20of%20a%20Linked%20List) |
 | 70  | Minimum Number of Vertices to Reach All Nodes | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes) |
 | 71  | Is Graph Bipartite | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Is%20Graph%20Bipartite) |
+| 72  | Top K Frequent Elements | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Top%20K%20Frequent%20Elements) |
 
 
 ## Contributions

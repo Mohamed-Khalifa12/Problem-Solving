@@ -88,6 +88,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 71  | Is Graph Bipartite | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Is%20Graph%20Bipartite) |
 | 72  | Top K Frequent Elements | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Top%20K%20Frequent%20Elements) |
 | 73  | Kth Largest Element in a Stream | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
+| 74  | Ugly Number II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
 
 
 ## Contributions

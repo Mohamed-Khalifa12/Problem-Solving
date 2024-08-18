@@ -30,7 +30,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 14  | Implement Trie (Prefix Tree)   |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)     |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Implement%20Trie%20(Prefix%20Tree))|
 | 15  | Design Browser History  |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)     |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Design%20Browser%20History)|
 | 16  | Design Add and Search Words Data Structure  |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)     |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Design%20Add%20and%20Search%20Words%20Data%20Structure)|
-| 17  | Can Place Flowers |![#008000](https://placehold.co/10x10/008000/008000.png)   |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Can%20Place%20Flowers)|
+| 17  | Can Place Flowers |![#008000](https://placehold.co/15x15/008000/008000.png)   |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Can%20Place%20Flowers)|
 | 18  | Number of Zero-Filled Subarrays |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Zero-Filled%20Subarrays)|
 | 19  | Minimum Score of a Path Between Two Cities |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |[Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities)|
 | 20  | Number of Operations to Make Network Connected |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Operations%20to%20Make%20Network%20Connected)|
@@ -41,7 +41,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 24  | Minimum Cost For Tickets |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Cost%20For%20Tickets)|
 | 25  | Reducing Dishes |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Reducing%20Dishes)|
 | 26  | Number of Ways of Cutting a Pizza |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)|[Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20of%20Cutting%20a%20Pizza)|
-| 27  | Binary Search |![#008000](https://placehold.co/10x10/008000/008000.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Binary%20Search)|
+| 27  | Binary Search |![#008000](https://placehold.co/15x15/008000/008000.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Binary%20Search)|
 | 28  | Successful Pairs of Spells and Potions |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Successful%20Pairs%20of%20Spells%20and%20Potions)|
 | 29  | Boats to Save People |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Boats%20to%20Save%20People)|
 | 30  | Optimal Partition of String |![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Optimal%20Partition%20of%20String)|
@@ -50,32 +50,32 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 33  | Number of Enclaves | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Enclaves) |
 | 34  | Clone Graph | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Clone%20Graph) |
 | 35  | Largest Color Value in a Directed Graph | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Largest%20Color%20Value%20in%20a%20Directed%20Graph) |
-| 36  | Valid Parentheses | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Valid%20Parentheses) |
+| 36  | Valid Parentheses | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Valid%20Parentheses) |
 | 37  | Removing Stars From a String | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Removing%20Stars%20From%20a%20String) |
 | 38  | Simplify Path | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Simplify%20Path) |
 | 39  | Validate Stack Sequences | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Validate%20Stack%20Sequences) |
 | 40  | Longest Palindromic Subsequence | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20Palindromic%20Subsequence) |
 | 41  | Maximum Value of K Coins From Piles |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Value%20of%20K%20Coins%20From%20Piles)|
 | 42  | Number of Ways to Form a Target String Given a Dictionary |![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary)|
-| 43  | Kids With the Greatest Number of Candies | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies) |
-| 44  | Merge Strings Alternately | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Merge%20Strings%20Alternately) |
+| 43  | Kids With the Greatest Number of Candies | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kids%20With%20the%20Greatest%20Number%20of%20Candies) |
+| 44  | Merge Strings Alternately | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Merge%20Strings%20Alternately) |
 | 45  | Longest ZigZag Path in a Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree) |
 | 46  | Maximum Width of Binary Tree | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Width%20of%20Binary%20Tree) |
 | 47  | Minimum Insertion Steps to Make a String Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome) |
 | 48  | Restore The Array | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Restore%20The%20Array) |
-| 49  | Last Stone Weight | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Last%20Stone%20Weight) |
+| 49  | Last Stone Weight | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Last%20Stone%20Weight) |
 | 50  | Smallest Number in Infinite Set | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Smallest%20Number%20in%20Infinite%20Set) |
-| 51  | Add Digits | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Add%20Digits) |
+| 51  | Add Digits | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Add%20Digits) |
 | 52  | Bulb Switcher | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Bulb%20Switcher) |
 | 53  | Similar String Groups | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Similar%20String%20Groups) |
-| 54  | Average Salary Excluding the Minimum and Maximum Salary | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) |
-| 55  | Sign of the Product of an Array | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sign%20of%20the%20Product%20of%20an%20Array) |
-| 56  | Find the Difference of Two Arrays | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Difference%20of%20Two%20Arrays) |
+| 54  | Average Salary Excluding the Minimum and Maximum Salary | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary) |
+| 55  | Sign of the Product of an Array | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sign%20of%20the%20Product%20of%20an%20Array) |
+| 56  | Find the Difference of Two Arrays | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Difference%20of%20Two%20Arrays) |
 | 57  | Dota2 Senate | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Dota2%20Senate) |
 | 58  | Maximum Number of Vowels in a Substring of Given Length | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length) |
 | 59  | Number of Subsequences That Satisfy the Given Sum Condition | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition) |
 | 60  | Find the Longest Valid Obstacle Course at Each Position | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position) |
-| 61  | Matrix Diagonal Sum | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Matrix%20Diagonal%20Sum) |
+| 61  | Matrix Diagonal Sum | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Matrix%20Diagonal%20Sum) |
 | 62  | Spiral Matrix | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Spiral%20Matrix) |
 | 63  | Spiral Matrix II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Spiral%20Matrix%20II) |
 | 64  | Uncrossed Lines | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Uncrossed%20Lines) |
@@ -87,8 +87,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 70  | Minimum Number of Vertices to Reach All Nodes | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes) |
 | 71  | Is Graph Bipartite | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Is%20Graph%20Bipartite) |
 | 72  | Top K Frequent Elements | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Top%20K%20Frequent%20Elements) |
-| 73  | Kth Largest Element in a Stream | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
-| 74  | Ugly Number II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
+| 73  | Kth Largest Element in a Stream | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
+| 74  | Ugly Number II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Ugly%20Number%20II) |
 
 
 ## Contributions

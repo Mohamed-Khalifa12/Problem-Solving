@@ -90,6 +90,8 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 73  | Kth Largest Element in a Stream | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Kth%20Largest%20Element%20in%20a%20Stream) |
 | 74  | Ugly Number II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Ugly%20Number%20II) |
 | 75  | 2 Keys Keyboard | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/2%20Keys%20Keyboard) |
+| 76  | Find the Number of Distinct Colors Among the Balls | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/2%20Keys%20Keyboard) |
+
 
 
 ## Contributions

@@ -92,7 +92,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 75  | 2 Keys Keyboard | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/2%20Keys%20Keyboard) |
 | 76  | Find the Number of Distinct Colors Among the Balls | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls) |
 | 77  | Number Complement | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20Complement) |
-| 78  | Fraction Addition and Subtraction | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20Complement) |
+| 78  | Fraction Addition and Subtraction | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Fraction%20Addition%20and%20Subtraction) |
 
 ## Contributions
 If you find an error in one of my solutions or have a suggestion for how I could improve my code, please feel free to open a pull request or issue. I welcome all constructive feedback and would love to collaborate with others who are also working on daily coding challenges.

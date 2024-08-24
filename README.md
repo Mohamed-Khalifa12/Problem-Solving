@@ -8,7 +8,7 @@ The purpose of this repository is to improve my problem-solving skills and share
 Each day's challenge is organized into its own folder within this repository. Within each folder, you'll find a README file with the problem statement, as well as one or more solutions to the problem in C++.<br/>
 **Note:** 
 
-![#008000](https://placehold.co/10x10/008000/008000.png) ==> Easy Problem<br/>
+![#008000](https://placehold.co/15x15/008000/008000.png) ==> Easy Problem<br/>
 ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png) ==> Medium Problem<br/>
 ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ==> Hard Problem
 
@@ -91,9 +91,9 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 74  | Ugly Number II | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Ugly%20Number%20II) |
 | 75  | 2 Keys Keyboard | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/2%20Keys%20Keyboard) |
 | 76  | Find the Number of Distinct Colors Among the Balls | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Number%20of%20Distinct%20Colors%20Among%20the%20Balls) |
-| 77  | Number Complement | ![#008000](https://placehold.co/10x10/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20Complement) |
+| 77  | Number Complement | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Number%20Complement) |
 | 78  | Fraction Addition and Subtraction | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Fraction%20Addition%20and%20Subtraction) |
-| 79  | Find the Closest Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Fraction%20Addition%20and%20Subtraction) |
+| 79  | Find the Closest Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Closest%20Palindrome) |
 
 
 

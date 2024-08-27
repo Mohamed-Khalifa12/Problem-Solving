@@ -96,6 +96,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 79  | Find the Closest Palindrome | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Closest%20Palindrome) |
 | 80  | Binary Tree Postorder Traversal | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Binary%20Tree%20Postorder%20Traversal) |
 | 81  | N-ary Tree Postorder Traversal | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/N-ary%20Tree%20Postorder%20Traversal) |
+| 82  | Path With Maximum Probability | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/N-ary%20Tree%20Postorder%20Traversal) |
 
 
 

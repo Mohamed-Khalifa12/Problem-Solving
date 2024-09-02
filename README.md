@@ -100,7 +100,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 83  | Count Sub Islands | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Count%20Sub%20Islands) |
 | 84  | Most Stones Removed with Same Row or Column | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column) |
 | 85  | Sqrt(x) | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sqrt(x)) |
-| 86  | Convert 1D Array Into 2D Array | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sqrt(x)) |
+| 86  | Convert 1D Array Into 2D Array | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Convert%201D%20Array%20Into%202D%20Array) |
 
 
 ## Contributions

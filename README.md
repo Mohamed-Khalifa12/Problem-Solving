@@ -104,6 +104,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 87  | Find the Student that Will Replace the Chalk | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk) |
 | 88  | Sum of Digits of String After Convert | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Sum%20of%20Digits%20of%20String%20After%20Convert) |
 | 89  | Walking Robot Simulation | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Walking%20Robot%20Simulation) |
+| 90  | Longest Common Prefix | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Longest%20Common%20Prefix) |
 
 
 

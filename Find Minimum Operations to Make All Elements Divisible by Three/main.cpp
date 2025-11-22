@@ -13,7 +13,6 @@ int main() {
     int res = minimumOperations(x);
 
     cout<< res;
-
     return 0;
 }
 

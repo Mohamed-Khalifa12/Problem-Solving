@@ -108,7 +108,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 91  | Add Binary | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Add%20Binary) |
 | 92  | Find Minimum Operations to Make All Elements Divisible by Three | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three) |
 | 93  | Rotate List | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Rotate%20List) |
-
+| 94  | Search a 2D Matrix | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Search%20a%202D%20Matrix) |
 
 
 

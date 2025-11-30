@@ -110,7 +110,7 @@ Each day's challenge is organized into its own folder within this repository. Wi
 | 93  | Rotate List | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Rotate%20List) |
 | 94  | Search a 2D Matrix | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Search%20a%202D%20Matrix) |
 | 95  | Detect Capital | ![#008000](https://placehold.co/15x15/008000/008000.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Detect%20Capital) |
-
+| 96  | Product of Array Except Self | ![#eaea0b](https://placehold.co/15x15/eaea0b/eaea0b.png)  |  [Solution](https://github.com/Mohamed-Khalifa12/Problem-Solving/tree/main/Product%20of%20Array%20Except%20Self) |
 
 
 
